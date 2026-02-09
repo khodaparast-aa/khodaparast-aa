@@ -1,6 +1,6 @@
 ## Hi there 👋
-I work remotely for multiple Bio labs and research centers design, optimize, and automate Bio software. My work includes data analysis, software development, and performance optimization.
-My work focuses on:
+### I work remotely for multiple Bio labs and research centers design, optimize, and automate Bio software. My work includes data analysis, software development, and performance optimization.
+### My work focuses on:
 • NGS Data Analysis Pipelines (RNAseq, DNAseq)
 • Reproducible workflows and Workflow Automation (Snakemake, Nextflow, Docker)
 • Bio Simulation & Modeling
