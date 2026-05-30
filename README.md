@@ -1,4 +1,6 @@
 ## Hi there
 I am a software engineer focused on building high-performance computational infrastructure for biological modeling, simulation, and scientific discovery. My work combines modern C++, Python, algorithm design, and scalable software architecture to develop systems capable of handling large biological networks and data-intensive scientific workloads.
+
 My primary interests include systems biology, computational biology, synthetic biology, multi-omics modeling, gene regulatory networks, disease simulation, and biological digital twins. I am particularly interested in creating realistic computational representations of biological systems that can support hypothesis testing, synthetic data generation, and future AI-driven scientific research.
+
 I believe that scientific progress benefits from robust, transparent, and reproducible software. My goal is to contribute open-source tools that combine computational efficiency, scientific realism, and extensible design, enabling researchers and organizations to explore complex biological systems at scales that were previously impractical.
