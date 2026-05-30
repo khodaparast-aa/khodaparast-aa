@@ -1,28 +1,4 @@
-## Hi there 👋
-### I work remotely for multiple Bio labs and research centers design, optimize, and automate Bio software. My work includes data analysis, software development, and performance optimization.
-### My work focuses on:
-• NGS Data Analysis Pipelines (RNAseq, DNAseq)
-• Reproducible workflows and Workflow Automation (Snakemake, Nextflow, Docker)
-• Bio Simulation & Modeling
-• Parallel Computing, Acceleration, & Optimization for Bio Simulations
-• Bio Molecular & Cellular Simulations
-• Bio Agent based Simulation
-• Bio Stochastic Simulation
-• Bio Rare Event Simulation
-• Custom bioinformatics tools in Python and C++
-• Bio Data Visualization Dashboards
-
-<!--
-**khodaparast-aa/khodaparast-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there
+I am a software engineer focused on building high-performance computational infrastructure for biological modeling, simulation, and scientific discovery. My work combines modern C++, Python, algorithm design, and scalable software architecture to develop systems capable of handling large biological networks and data-intensive scientific workloads.
+My primary interests include systems biology, computational biology, synthetic biology, multi-omics modeling, gene regulatory networks, disease simulation, and biological digital twins. I am particularly interested in creating realistic computational representations of biological systems that can support hypothesis testing, synthetic data generation, and future AI-driven scientific research.
+I believe that scientific progress benefits from robust, transparent, and reproducible software. My goal is to contribute open-source tools that combine computational efficiency, scientific realism, and extensible design, enabling researchers and organizations to explore complex biological systems at scales that were previously impractical.
